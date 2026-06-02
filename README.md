@@ -1,4 +1,4 @@
-## Olá, me chamo Luis, seja bem-vindo ao meu perfil!
+## Bem-vindo ao meu perfil!
 
 <div class="languades" align="center">
   <h2>Linguagens</h2>
