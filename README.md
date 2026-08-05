@@ -37,8 +37,8 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+<div data-importer="music" align="left">
+  <img src="(https://spotify-recently-played-readme.vercel.app/api?user=𝒍𝒖𝑪𝒉𝒊𝒄𝒐&count=1)" alt="Spotify recently played"  />
 </div>
 
 ###
