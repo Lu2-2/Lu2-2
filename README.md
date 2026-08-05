@@ -35,24 +35,3 @@
   <img src="https://raw.githubusercontent.com/Lu2-2/Lu2-2/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<div data-importer="music" align="left">
-  <img src="(https://spotify-recently-played-readme.vercel.app/api?user=𝒍𝒖𝑪𝒉𝒊𝒄𝒐&count=1)" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div data-importer="activities" align="left" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Lu2-2/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Lu2-2/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Lu2-2/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Lu2-2/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Lu2-2/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Lu2-2/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
