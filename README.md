@@ -10,7 +10,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Linguagens e ferramentas</h2>
+<h2 data-importer="text" align="left">Tech Stack</h2>
 
 ###
 
