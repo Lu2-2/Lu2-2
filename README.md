@@ -26,6 +26,8 @@
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,react,git,github" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,windows" />
 </div>
 
 <h2 align="center">📈 GitHub Stats</h2>
