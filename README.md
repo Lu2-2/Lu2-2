@@ -33,7 +33,4 @@
 <h2 align="center">📈 GitHub Stats</h2>
   <img height=165 align="center" src="https://github-stats-extended.vercel.app/api?username=lu2-2&theme=github_dark_dimmed&show_icons=true"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lu2-2&bg_color=1F242C&color=E6EDF3&line=5492f7&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
-</p>
 
